@@ -1,0 +1,94 @@
+header{
+    background:linear-gradient(rgb(104, 1, 87),purple);
+    font-weight: 800;
+    text-align: center;
+    border:medium solid black;
+    text-transform: uppercase;
+
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.842);
+    padding:10px;
+    text-align: right;
+    font-size:20px ;
+    
+}
+nav a{
+    text-decoration: none;
+    color:lightseagreen;
+}
+nav a:hover{
+    color:tomato;
+}
+nav a:visited{
+    color:seagreen;
+ } 
+ main{
+    padding:10px;
+    background: url("background.png"); 
+    background-size:cover;
+    background-repeat: no-repeat;
+      
+}
+#textBeforeList{
+    font-size: 30px;
+    font-weight: 600;
+    text-align:left;
+}
+ul{
+    text-align:left;  
+    list-style: none;
+    line-height: 20em;
+    font-size:30px;
+}
+ul a{
+    color:rgb(9, 21, 129);
+}
+
+ul a:hover{
+    color:tomato;
+}
+#linkedin{
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/733/529/291/computer-internet-linkedin-media-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size:70% 80%;
+    opacity: 70%;
+}
+
+#instagram{
+    background-image: url("https://wallpapercave.com/wp/wp4667551.jpg");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size:70% 80%;
+    opacity: 70%;
+}
+#email{
+    background-image: url("https://www.wallpapertip.com/wmimgs/18-182373_gmail-wallpaper-gmail-button.jpg");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size:70% 80%;
+    opacity: 70%;
+}
+#contanct{
+    background-image: url("https://images.unsplash.com/photo-1596524430615-b46475ddff6e?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29udGFjdCUyMHVzfGVufDB8fDB8fA%3D%3D&ixlib=rb-1.2.1&w=1000&q=80");
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size:70% 80%;
+    opacity: 70%;
+}
+.text{
+    padding:10px;
+    background: linear-gradient(rgba(236, 71, 121, 0.856),rgba(22, 21, 21, 0.445));
+    text-align: center;
+    font-size:25px;
+    font-weight: 600;
+}
+#thankYou{
+    color:rgb(145, 5, 145);
+    background-color:rgba(0, 0, 0, 0.89);
+    padding-top: 0.5px;
+    text-align:center;
+    font-size: 2em;
+    
+}

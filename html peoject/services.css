@@ -1,0 +1,63 @@
+.head{
+    background-color:#FF8072;
+    height: 300px;
+}
+.logo{
+    height:300px;
+    width: 300px;
+    margin: 120px 40px;
+    text-align: center;
+   float: left;
+   position:relative;
+   bottom: 120px;
+}
+.first{
+    color: azure;
+    text-align: center;
+    font-size: 2.5rem;
+    position: relative;
+    top: 130px;
+}
+.fotu{
+    height: 200px;
+    width: 300px;
+    padding: 1%;
+float: left;
+position:absolute;
+left: 20px;
+}
+.word{
+    font-size: 2.5rem;
+}
+.jee{
+  text-align: center;  
+  line-height: 32px;
+font-size: 1.5rem;
+padding: 3%;
+}
+.pre{
+    background-color: #FF8072;
+    color: azure;
+    font-size: 1.5rem;
+    padding: 3%;
+    height: 200px;
+}
+.fotu-2{
+    height: 200px;
+    width: 300px;
+    padding: 1%;
+float: left;
+position:absolute;
+right: 20px;
+
+
+}
+.contact{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.foot{
+    text-align: center;
+    font-family: 2rem;
+  
+}

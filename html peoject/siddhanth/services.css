@@ -1,0 +1,54 @@
+header{
+    background-color:rgba(250, 128, 114, 0.747);
+    font-weight: 800;
+    text-align: center;
+    border:medium solid black;
+    text-transform: uppercase;
+}
+nav{
+    background-color: rgba(0, 0, 0, 0.842);
+    padding:10px;
+    text-align: right;
+    font-size:20px ;
+    
+}
+nav a{
+    text-decoration: none;
+    color: teal;
+}
+nav a:hover{
+    color:tomato;
+}
+nav a:visited{
+    color:seagreen;
+ } 
+ /* for font above list */
+main{
+    font-size: xx-large;
+    text-align: center;
+    font-weight: 500;
+}
+/* for font of list */
+main ul{
+    list-style-type: none;
+    line-height: 1.5em;
+    font-weight: 700;
+}
+/* for background */
+main{
+    padding:10px;
+    background: 
+    url("light-live-background-css.jpg") repeat; 
+    background-size:auto;
+      
+}
+section{
+    text-align: center;
+    font-size:1.5em;
+    
+}
+section{
+    font-style: italic;
+    padding:10px;
+    background: linear-gradient(white,rgba(243, 113, 66, 0.5));
+}
